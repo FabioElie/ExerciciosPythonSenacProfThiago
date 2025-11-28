@@ -1,6 +1,6 @@
 <h1>📘 Controle de Exercícios – Senac</h1>
 <h3>👨‍🏫 Professor: Thiago Almeida</h3>
-<h3>💻 Curso: Desenvolvimento / Programação</h3>
+<h3>💻 Curso: Técnico em Desenvolvimento de Sistemas</h3>
 
 <p>
   Este repositório tem como objetivo <strong>organizar, registrar e acompanhar</strong> 
